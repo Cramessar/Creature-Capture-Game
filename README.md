@@ -42,7 +42,7 @@ This project serves as a showcase of programming knowledge and provides potentia
 ## 🛠️ Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Cramessar/Creature-Capture-Game
    ```
 2. Navigate to the project directory:
    ```bash
@@ -54,7 +54,7 @@ This project serves as a showcase of programming knowledge and provides potentia
    ```
 4. Run the game:
    ```bash
-   python <game_file>.py
+   python main.py
    ```
 
 ---
